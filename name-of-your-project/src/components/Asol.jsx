@@ -1,7 +1,7 @@
-import { Outlet } from "react-router-dom";
 import Header from "./Header";
+import { Outlet } from "react-router-dom";
 
-const Main = () => {
+const Asol = () => {
   return (
     <div>
       <Header></Header>
@@ -10,4 +10,4 @@ const Main = () => {
   );
 };
 
-export default Main;
+export default Asol;
